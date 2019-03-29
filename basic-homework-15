@@ -15,5 +15,6 @@ int main()
  {
   printf("現在是下課時間");
  }
-
+ system("PAUSE");
+ return 0;
 }
